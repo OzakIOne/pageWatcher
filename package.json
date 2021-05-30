@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "open": "^8.0.7",
+    "puppeteer": "^9.1.1"
+  }
+}
